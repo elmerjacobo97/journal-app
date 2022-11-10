@@ -13,7 +13,7 @@ _Journal App, agregar notas y almacenarlas en Firestore Database_
 
 ## Autor ✒️
 
-* **Elmer Jacobo** - *Trabajo Inicial & Documentación* - [Elmer Jacobo](https://www.facebook.com/elmer.jacobo.5832)
+* **Elmer Jacobo** - *Trabajo Inicial & Documentación* - [Elmer Jacobo](https://www.linkedin.com/in/ejacobotiniano/)
 
 
 ---
